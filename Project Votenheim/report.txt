@@ -1,4 +1,4 @@
-Title: Jesed Renteria, CSCI 200, Project Vohtenheim
+Title: Jesed Renteria, Project Vohtenheim
 
 Problem Description: I will be creating a program that is narrative-driven and text-adventure and acts like an RPG game like Skyrim that involves with you, the protagonist, to defeat a boss and the protagonist will be given choices to select their path to gain levels, moves, and items that will help them throughout their journey.
 
@@ -10,4 +10,4 @@ List Data Structure: I chose vectors as my list data structure since I thought i
 
 File I/O: File I/O is incorporated when taking in the moveData file, getting the line, separating the line by its respective variables, and stored inside a move structure and pushed back into the vector. It was necessary since it allows the user to select a move they would like to learn for the protagonist to defeat his enemies.
 
-Reflections: I learned about the complexity and struggles when it comes to creating a game in C++ and learned a new module that helped me in reading data files, and I think organizing my thoughts, writing down a map to get an idea of how I want my game to layout, and writing psuedocode to map out what needs to coded or not. Honestly, if I had a bit more time, I think would actually make a old pokemon style game using SFML, animating it, showing the characters and background, and letting the user interact with the game, but I am thinking of doing that in the Summer as my personal project for fun and passion.
+Reflections: I learned about the complexity and struggles when it comes to creating a game in C++ and learned a new module that helped me in reading data files, and I think organizing my thoughts, writing down a map to get an idea of how I want my game to layout, and writing psuedocode to map out what needs to coded or not. There are still some bugs and balancing I have to do for the game.

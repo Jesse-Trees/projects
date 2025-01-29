@@ -1,0 +1,24 @@
+Letter,MoveName,MoveType,Power,ManaCost,Description
+E,Slash,Physical,50,0,A powerful sword slash.
+S,Charge,Physical,60,0,Charge forward with great force.
+M,Fireball,Special,70,20,Launch a fiery projectile at the enemy.
+S,Whirlwind,Physical,65,0,Unleash a whirlwind of slashes on the enemy.
+M,Ice Spear,Special,75,25,Hurl a sharp spear of ice at the enemy.
+S,Shield Bash,Physical,55,0,Strike the enemy with a shield for heavy damage.
+E,Quick Strike,Physical,40,0,A fast and precise strike.
+M,Thunderbolt,Special,80,30,Summon a bolt of lightning to strike the enemy.
+E,Double Slash,Physical,60,0,Execute two quick slashes in succession.
+S,Rapid Strike,Physical,70,0,Unleash a flurry of rapid strikes.
+E,Power Shot,Physical,65,0,Unleash a powerful arrow at the enemy.
+S,Stunning Blow,Physical,55,0,Deliver a stunning blow that may daze the enemy.
+M,Arcane Blast,Special,75,25,Unleash a blast of arcane energy at the enemy.
+S,Counterattack,Physical,60,0,Counter the enemy's attack with a swift strike.
+E,Pierce,Physical,45,0,Pierce through the enemy's defenses with a piercing strike.
+M,Chain Lightning,Special,85,35,Send a chain of lightning to strike multiple enemies.
+S,Swift Assault,Physical,70,0,Swiftly assault the enemy with precise strikes.
+E,Fling Shot,Physical,50,0,Shoot a stone with incredible force.
+M,Blizzard,Special,90,40,Summon a blizzard to damage and slow the enemy.
+S,Assassin's Strike,Physical,80,0,Execute a deadly strike from the shadows.
+E,Spin Attack,Physical,55,0,Perform a spinning attack to hit multiple enemies.
+M,Meteor Shower,Special,95,45,Call forth a rain of meteors upon the enemy.
+S,Blade Dance,Physical,75,0,Dance through enemies with your bladestriking them all.
